@@ -24,7 +24,7 @@ Multi-page Power BI dashboard with KPIs, regional performance, product trends, a
 [View project ➜](./superstore-dashboard)
 
 ## 📬 How to reach me  
-[LinkedIn](https://www.linkedin.com/in/frederik-smith/
+[LinkedIn](.https://www.linkedin.com/in/frederik-smith/)
 
 ---
 
