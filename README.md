@@ -1,4 +1,4 @@
-# 📊 Data Analytics Portfolio – [Your Name]
+# 📊 Data Analytics Portfolio – Frederik Smith
 
 ## 👋 Who I am  
 Aspiring data analyst with a master's degree in Sports Science, where I focused on analyzing health-related data.  
