@@ -21,7 +21,7 @@ I’m also learning Python to expand my technical toolbox and support future dat
 
 ### ▸ Retail Sales Dashboard – Superstore  
 Multi-page Power BI dashboard with KPIs, regional performance, product trends, and year-over-year insights.  
-[View project ➜](./superstore-dashboard)
+[View project ➜](https://github.com/FrederikSmith/superstore-dashboard)
 
 ## 📬 How to reach me  
 [LinkedIn](https://www.linkedin.com/in/frederik-smith/)
