@@ -28,7 +28,7 @@ Power BI solution built on a structured data model with standardized KPIs and re
 - Measure-based logic (DAX)
 - Clear separation between data model and visuals
 
-[View project ➜] (https://github.com/FrederikSmith/superstore-powerbi)
+[View project ➜](https://github.com/FrederikSmith/superstore-dashboard)
 
 
 ## 📬 How to reach me  
