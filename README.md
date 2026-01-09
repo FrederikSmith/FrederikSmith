@@ -1,27 +1,35 @@
-# 📊 Data Analytics Portfolio – Frederik Smith
+# 📊 Data Analytics & Business Intelligence Portfolio
 
-## 👋 Who I am  
-Aspiring data analyst with a master's degree in Sports Science, where I focused on analyzing health-related data.  
-I am now transitioning into business analytics by building structured, insight-driven dashboards in Power BI.
+I build structured Power BI solutions with a focus on **data modeling, reusable DAX measures, and consistent KPI logic**.
 
-## 🔧 What I’m working on  
-I’m currently creating projects that reflect real business intelligence workflows using SQL and Power BI.  
-I’m also learning Python to expand my technical toolbox and support future data projects.
+My background is in data analysis and reporting, and I am particularly interested in enterprise BI setups where **quality, scalability, and shared business definitions** are more important than ad hoc reporting.
 
-## 🛠️ Tools and skills  
+---
+
+## 🔧 Tools & Skills
+- Power BI
+- DAX
+- SQL
+- Data modeling (star schema)
+- KPI design
+- Business reporting
 - Excel
-- Power BI  
-- Power Query  
-- DAX  
-- SQL  
-- Data modeling (star schema)  
-- Business reporting and visualization
 
-## 📁 Projects
+---
 
-### ▸ Retail Sales Dashboard – Superstore  
-Multi-page Power BI dashboard with KPIs, regional performance, product trends, and year-over-year insights.  
-[View project ➜](https://github.com/FrederikSmith/superstore-dashboard)
+## 📁 Featured Project
+
+### ▸ Retail Sales Dashboard – Superstore
+Power BI solution built on a structured data model with standardized KPIs and reusable measures.
+
+**Focus areas**
+- Star schema data modeling
+- Consistent KPI definitions
+- Measure-based logic (DAX)
+- Clear separation between data model and visuals
+
+🔗 View project: https://github.com/FrederikSmith/superstore-powerbi
+
 
 ## 📬 How to reach me  
 [LinkedIn](https://www.linkedin.com/in/frederik-smith/)
