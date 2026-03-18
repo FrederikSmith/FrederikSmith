@@ -27,7 +27,10 @@ shipments. Built using SQL for data cleaning and analysis, Python for explorator
 visualisation and Power BI for an interactive dashboard across two pages.
 
 **Key finding:** 54.83% of all orders arrive late, with First Class shipping
-performing worst at 95% late delivery despite being a premium service.
+performing worst at 95% late delivery despite being a premium service. However, 
+First Class shipping still delivers faster in absolute terms averaging 1 day 
+actual vs 1 day scheduled. This means First Class shipping have a tighter 
+delivery window and not slower shipping.
 
 **Tools:** SQL, Python, Power BI, DAX
 
